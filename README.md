@@ -10,10 +10,10 @@ Hard-working, professional engineer, who has spent almost 10 years working in te
 <table>
   <tr>
     <td width=150 valign=top>Draw My Life</td>
-    <td valign=top>https://github.com/empowerhack/DrawMyLife-Service</td>
+    <td colspan=2 valign=top>https://github.com/empowerhack/DrawMyLife-Service</td>
   </tr>
   <tr>
-    <td>
+    <td colspan=3>
       I am one of a small team of engineers who are working on this project, the aim of which is to create a library of drawings made by child refugees, so they may be used to lobby for more funding towards children’s mental health initiatives amongst refugee populations. The app is built on a Ruby on Rails app, and provides an API in order to provide images and data with a wider audience, including the Humanitarian Data Exchange (HDX).
     </td>
   </tr>
@@ -23,14 +23,18 @@ Hard-working, professional engineer, who has spent almost 10 years working in te
     <td width=350 valign=top>https://github.com/empowerhack/DrawMyLife-Service</td>
   </tr>
   <tr>
-    The ACB Calculator is a web app (Ruby on Rails) I have created for a student doctor. It is a tool to calculate a patient’s Anticholinergic Burden (ACB) score based on the medicines they are taking. The app uses Javascript and JQuery to update a running score based on medicines entered and warn the user when the score hits a dangerous level.
+    <td colspan=3>
+      The ACB Calculator is a web app (Ruby on Rails) I have created for a student doctor. It is a tool to calculate a patient’s Anticholinergic Burden (ACB) score based on the medicines they are taking. The app uses Javascript and JQuery to update a running score based on medicines entered and warn the user when the score hits a dangerous level.
+    </td>
   </tr>
   <tr>
-    <td width=150 valign=top>ACB Calculator</td>
-    <td valign=top>http://www.ukultimate.com</td>
+    <td width=150 valign=top>UK Ultimate</td>
+    <td colspan=2 valign=top>http://www.ukultimate.com</td>
   </tr>
   <tr>
-    UK Ultimate is the governing body of Ultimate Frisbee in the UK. I took over the technical running of their website in late 2012, and have been hosting, supporting, and providing patches and updates ever since. It is based on a Drupal framework (PHP), with some custom modules that I have expanded the functionality of. It is used by almost 4,000 members to pay annual fees and to keep up to date with UKU news and events.
+    <td colspan=3>
+      UK Ultimate is the governing body of Ultimate Frisbee in the UK. I took over the technical running of their website in late 2012, and have been hosting, supporting, and providing patches and updates ever since. It is based on a Drupal framework (PHP), with some custom modules that I have expanded the functionality of. It is used by almost 4,000 members to pay annual fees and to keep up to date with UKU news and events.
+    </td>
   </tr>
 </table>
 
