@@ -1,6 +1,7 @@
 ##Steve Smith
-#####+44 7540 841 097
-#####steve@ultimatetesting.co.uk
++44 7540 841 097
+<br>
+stevesmith2609@gmail.com
 
 ###Personal Statement
 Hard-working, professional engineer, who has spent almost 10 years working in testing and QA roles in both permanent and consulting capacities. I am now looking to move into a developer role, to build upon experiences I’ve gained in test automation (Ruby), and projects outside of work (in Ruby and PHP).
@@ -181,8 +182,6 @@ Hard-working, professional engineer, who has spent almost 10 years working in te
   </tr>
   <tr>
     <td colspan=2>
-      <strong>BSc Accounting (2:1 classification)</strong>
-      <br>
       <strong>4 `A` Levels</strong>	<i>Business Studies (A), General Studies (A), Mathematics (B), Economics (C)</i>
       <br>
       <strong>1 `AS` Level</strong>	<i>Information and Communications Technology (A)</i>
