@@ -19,12 +19,12 @@ Hard-working, professional engineer, who has spent almost 10 years working in te
   </tr>
   <tr>
     <td width=150 valign=top>ACB Calculator</td>
-    <td width=350 valign=top>http://www.acbcalc.com</td>
-    <td width=350 valign=top>https://github.com/empowerhack/DrawMyLife-Service</td>
+    <td valign=top>http://www.acbcalc.com</td>
+    <td valign=top>https://github.com/stevesmith2609/acb-calc</td>
   </tr>
   <tr>
     <td colspan=3>
-      The ACB Calculator is a web app (Ruby on Rails) I have created for a student doctor. It is a tool to calculate a patient’s Anticholinergic Burden (ACB) score based on the medicines they are taking. The app uses Javascript and JQuery to update a running score based on medicines entered and warn the user when the score hits a dangerous level.
+      The ACB Calculator is a web app (Ruby on Rails) I have created for a student doctor friend of mine. It is a tool used to calculate a patient’s Anticholinergic Burden (ACB) score based on the medicines they are taking. The app uses Javascript and JQuery to update a running score based on medicines entered and warn the user when the score hits a dangerous level. It also uses caching to work offline, as this is necessary in a hospital setting.
     </td>
   </tr>
   <tr>
