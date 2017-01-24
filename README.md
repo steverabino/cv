@@ -9,7 +9,7 @@ Hard-working, professional engineer, who has spent almost 10 years working in te
 ###Development Experience
 <table>
   <tr>
-    <td width=150 valign=top>Draw My Life</td>
+    <td width=190 valign=top>Draw My Life</td>
     <td colspan=2 valign=top>https://github.com/empowerhack/DrawMyLife-Service</td>
   </tr>
   <tr>
@@ -18,7 +18,7 @@ Hard-working, professional engineer, who has spent almost 10 years working in te
     </td>
   </tr>
   <tr>
-    <td width=150 valign=top>ACB Calculator</td>
+    <td width=190 valign=top>ACB Calculator</td>
     <td valign=top>http://www.acbcalc.com</td>
     <td valign=top>https://github.com/stevesmith2609/acb-calc</td>
   </tr>
@@ -28,7 +28,7 @@ Hard-working, professional engineer, who has spent almost 10 years working in te
     </td>
   </tr>
   <tr>
-    <td width=150 valign=top>UK Ultimate</td>
+    <td width=190 valign=top>UK Ultimate</td>
     <td colspan=2 valign=top>http://www.ukultimate.com</td>
   </tr>
   <tr>
@@ -158,7 +158,7 @@ Hard-working, professional engineer, who has spent almost 10 years working in te
 ###Education
 <table>
   <tr>
-    <td width=125 valign=top>
+    <td width=190 valign=top>
       2004 - 2007
     </td>
     <td>
